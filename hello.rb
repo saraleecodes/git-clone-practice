@@ -1,3 +1,3 @@
 require 'colorize'
 
-puts "Hello World!".colorize(:blue)
+puts "Hello World!".colorize(:red)
